@@ -1,0 +1,10 @@
+{
+    "name": "ItemManager",
+    "version": "1.0.0",
+    "entry": "index.js",
+    "author": "あなたの名前を入れてください",
+    "description": "インベントリスロットのロック、ホットバーとのアイテムスワップ機能を追加するモジュールです。",
+    "requires": [],
+    "tags": [ "utility", "inventory", "qol" ],
+    "url": "GitHubリポジトリのURL（https://github.com/LoveOfHutao/ItemManager-CT1）"
+}
